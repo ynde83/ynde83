@@ -1,4 +1,4 @@
 ### linux user
 
-tg/ t.me/@ynde83
+tg: https://t.me/@ynde83
 
